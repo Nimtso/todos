@@ -3,6 +3,7 @@ Create a basic http server using NodeJs, Express and MongoDB. Here are some rule
 *  Code the tasks synchronous order
 * Use the official mongoDB module (not mongoose)
 * Use a local mongodb container to run an instance of mongodb
+* Its recomended to use nodemon and thunderclient/postman
 
 Good luck!
 
