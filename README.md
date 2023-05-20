@@ -77,6 +77,9 @@ Create your own middleware for logging data. Log the time, and the message in a 
   - Response:  The number of deleted Documents. 
   - Status Code: 200
 
+## Swagger
+  - Add Swagger to the routes
+
 ##  Validation:
   - Schema validation for your route. Use the module joi
 
